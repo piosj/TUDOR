@@ -1,4 +1,4 @@
-# AAAI26_CODE_DATA (TUDOR)
+# CODE_DATA (TUDOR)
 There's several additional data, however due to large file size for 'Supplementary Material', 'behaviors.tsv' are not available.
 Instead, make README.md to describe code & datas by descriptions.
 ** All the files in here are just the samples.
